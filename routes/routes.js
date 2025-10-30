@@ -7,7 +7,9 @@ module.exports = router;
 const Model = require('../modelo/modelo');
 const Model2 = require('../modelo/equipo');
 
-
+/*
+Comentarios en el código test commit
+*/
 
 //Post Method 1
 router.post('/post', async (req, res) => {
