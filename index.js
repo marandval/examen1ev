@@ -17,7 +17,7 @@ database.once('connected', () => {
     console.log('Database Connected');
 })
 const app = express();
-/*holii*/
+/*cambio en el commit test smart commit*/
 app.use(express.json());
 
 app.listen(3000, () => {
